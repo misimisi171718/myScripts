@@ -1,0 +1,3 @@
+/home/misi/Documents/dev google:sync/dev
+/home/misi/Documents/tantargyak google:sync/tantargyak
+/home/misi/.scripts google:sync/.scripts

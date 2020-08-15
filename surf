@@ -1,0 +1,4 @@
+#!/bin/sh
+
+site=$(echo name a site | dmenu)
+surf $site
