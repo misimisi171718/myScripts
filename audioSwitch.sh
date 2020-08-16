@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# script to set pulseaudio output divice
+
 list=$(pactl list short sink-inputs | awk '{print $1}')
 
 echo $list

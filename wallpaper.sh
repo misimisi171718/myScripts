@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#sets a walpaper with nitrogen and it can also set video as walpaper but you need xwinwrap and mpv
+
 killwin()
 {
 	if [ -f /tmp/WALLPAPER_PID ]

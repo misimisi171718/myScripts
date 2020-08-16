@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#scrit to sort my downloads
+
 move()
 {
 	folder="/home/misi/Downloads/$2"

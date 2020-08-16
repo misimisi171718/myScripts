@@ -1,5 +1,7 @@
 #!/bin/sh
 
+#this is not my script its from Luke Smith
+
 # A dmenu prompt to unmount drives.
 # Provides you with mounted partitions, select one to unmount.
 # Drives mounted at /, /boot and /home will not be options to unmount.

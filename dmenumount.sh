@@ -1,5 +1,7 @@
 #!/bin/sh
 
+#this is not my script its from Luke Smith
+
 # Gives a dmenu prompt to mount unmounted drives and Android phones. If
 # they're in /etc/fstab, they'll be mounted automatically. Otherwise, you'll
 # be prompted to give a mountpoint from already existsing directories. If you

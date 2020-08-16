@@ -1,4 +1,5 @@
 #!/bin/bash
+#sincronises folders given in sync.txt with rclone 
 
 RCLONE_CONFIG=/home/misi/.config/rclone/rclone.conf
 export RCLONE_CONFIG

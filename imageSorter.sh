@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#sorts images at arugment one and organises them at argument two in directories by time
+
 folders=$(find $1 -type f | sed 's/ /\\\ /g')
 z=$(find $1 -type f | wc -l)
 y="1"
